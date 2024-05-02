@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/8988/ChineR/Content/UI/UI_interact/BP_Interact.uasset",
+				"D:/8988/ChineR/Content/__ExternalActors__/Level/Basic/4/JN/IF4FEMP6WK0R1QXOILHBE8.uasset",
+				"D:/8988/ChineR/Content/Animal_pack_ultra/Meshes/iron_age_pig_eat_anim.uasset",
+				"D:/8988/ChineR/Content/Animal_pack_ultra/Meshes/iron_age_pig_idle_anim.uasset",
+				"D:/8988/ChineR/Content/Animal_pack_ultra/Meshes/iron_age_pig_walk_anim.uasset",
 				"E:/ChineR/Content/Level/Basic_HLOD0_Instancing.uasset",
 				"E:/ChineR/Content/__ExternalActors__/Level/Basic/5/21/5PLPLHD61G6ZP26UX9RI6R.uasset",
 				"E:/ChineR/Content/__ExternalObjects__/Level/Basic/7/SR/1OVCMXGCYGJCL2G44AA6RF.uasset",
