@@ -4168,3 +4168,44 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.09-11.11.58:637][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 345 ms (total: 4.34 sec)
 [2024.05.09-11.11.58:644][789]AssetCheck: New page: Asset Save: BP_Dialogue_NPC
 [2024.05.09-11.11.58:644][789]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level/Dialogue/BP_Dialogue_NPC.BP_Dialogue_NPC
+[2024.05.09-11.12.15:673][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-11.12.15:705][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Dialogue/BP_Dialogue_NPC" FILE="E:/ChineR/Content/Level/Dialogue/BP_Dialogue_NPC.uasset" SILENT=true
+[2024.05.09-11.12.16:029][972]LogSavePackage: Moving output files for package: /Game/Level/Dialogue/BP_Dialogue_NPC
+[2024.05.09-11.12.16:031][972]LogSavePackage: Moving 'E:/ChineR/Saved/BP_Dialogue_NPCFE23DDAD4A2B2885E2612E8618FCF9EF.tmp' to 'E:/ChineR/Content/Level/Dialogue/BP_Dialogue_NPC.uasset'
+[2024.05.09-11.12.16:041][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 368 ms (total: 4.71 sec)
+[2024.05.09-11.12.16:048][972]AssetCheck: New page: Asset Save: BP_Dialogue_NPC
+[2024.05.09-11.12.16:048][972]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level/Dialogue/BP_Dialogue_NPC.BP_Dialogue_NPC
+[2024.05.09-11.12.16:588][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-11.12.16:620][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Dialogue/BP_Dialogue_NPC" FILE="E:/ChineR/Content/Level/Dialogue/BP_Dialogue_NPC.uasset" SILENT=true
+[2024.05.09-11.12.16:929][  4]LogSavePackage: Moving output files for package: /Game/Level/Dialogue/BP_Dialogue_NPC
+[2024.05.09-11.12.16:930][  4]LogSavePackage: Moving 'E:/ChineR/Saved/BP_Dialogue_NPCB6D9E58A41795EF5299F078E4A74CB5B.tmp' to 'E:/ChineR/Content/Level/Dialogue/BP_Dialogue_NPC.uasset'
+[2024.05.09-11.12.16:939][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 350 ms (total: 5.06 sec)
+[2024.05.09-11.12.16:946][  4]AssetCheck: New page: Asset Save: BP_Dialogue_NPC
+[2024.05.09-11.12.16:946][  4]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level/Dialogue/BP_Dialogue_NPC.BP_Dialogue_NPC
+[2024.05.09-11.12.17:375][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-11.12.17:406][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Dialogue/BP_Dialogue_NPC" FILE="E:/ChineR/Content/Level/Dialogue/BP_Dialogue_NPC.uasset" SILENT=true
+[2024.05.09-11.12.17:708][ 30]LogSavePackage: Moving output files for package: /Game/Level/Dialogue/BP_Dialogue_NPC
+[2024.05.09-11.12.17:711][ 30]LogSavePackage: Moving 'E:/ChineR/Saved/BP_Dialogue_NPCCFCF62BC4A6CF5C960AFD1A6771C6C36.tmp' to 'E:/ChineR/Content/Level/Dialogue/BP_Dialogue_NPC.uasset'
+[2024.05.09-11.12.17:719][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 343 ms (total: 5.40 sec)
+[2024.05.09-11.12.17:725][ 30]AssetCheck: New page: Asset Save: BP_Dialogue_NPC
+[2024.05.09-11.12.17:725][ 30]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level/Dialogue/BP_Dialogue_NPC.BP_Dialogue_NPC
+[2024.05.09-11.12.18:091][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-11.12.18:129][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Dialogue/BP_Dialogue_NPC" FILE="E:/ChineR/Content/Level/Dialogue/BP_Dialogue_NPC.uasset" SILENT=true
+[2024.05.09-11.12.18:447][ 52]LogSavePackage: Moving output files for package: /Game/Level/Dialogue/BP_Dialogue_NPC
+[2024.05.09-11.12.18:449][ 52]LogSavePackage: Moving 'E:/ChineR/Saved/BP_Dialogue_NPCD661C172442AF2406E699C99784E461C.tmp' to 'E:/ChineR/Content/Level/Dialogue/BP_Dialogue_NPC.uasset'
+[2024.05.09-11.12.18:458][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 366 ms (total: 5.77 sec)
+[2024.05.09-11.12.18:464][ 52]AssetCheck: New page: Asset Save: BP_Dialogue_NPC
+[2024.05.09-11.12.18:464][ 52]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level/Dialogue/BP_Dialogue_NPC.BP_Dialogue_NPC
+[2024.05.09-11.12.18:964][ 81]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.09-11.12.22:833][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.05.09-11.12.22:838][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-11.12.22:877][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ExternalActors__/Level/Basic/2/QW/JALXS7QO94427Y59GEVLTB" FILE="E:/ChineR/Content/__ExternalActors__/Level/Basic/2/QW/JALXS7QO94427Y59GEVLTB.uasset" SILENT=true
+[2024.05.09-11.12.22:885][305]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Basic/2/QW/JALXS7QO94427Y59GEVLTB
+[2024.05.09-11.12.22:888][305]LogSavePackage: Moving 'E:/ChineR/Saved/JALXS7QO94427Y59GEVLTB119DDEAF47E076BAFFCBDF95EEF11386.tmp' to 'E:/ChineR/Content/__ExternalActors__/Level/Basic/2/QW/JALXS7QO94427Y59GEVLTB.uasset'
+[2024.05.09-11.12.22:891][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ExternalActors__/Level/Basic/7/OV/4X09EOPZ9RELIA2KU72XJ2" FILE="E:/ChineR/Content/__ExternalActors__/Level/Basic/7/OV/4X09EOPZ9RELIA2KU72XJ2.uasset" SILENT=true
+[2024.05.09-11.12.22:929][305]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Basic/7/OV/4X09EOPZ9RELIA2KU72XJ2
+[2024.05.09-11.12.22:929][305]LogSavePackage: Moving 'E:/ChineR/Saved/4X09EOPZ9RELIA2KU72XJ2345EA1F6457B6494089BA4A8FEB6F84F.tmp' to 'E:/ChineR/Content/__ExternalActors__/Level/Basic/7/OV/4X09EOPZ9RELIA2KU72XJ2.uasset'
+[2024.05.09-11.12.22:945][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 5.87 sec)
+[2024.05.09-11.12.22:954][305]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.09-11.12.22:954][305]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/Level/Basic.Basic:PersistentLevel.PlayerStart_UAID_98BB1E1C382823F101_1966431817
+[2024.05.09-11.12.22:954][305]LogContentValidation: Display: Validating /Game/Level/Dialogue/BP_Dialogue_NPC.BP_Dialogue_NPC_C /Game/Level/Basic.Basic:PersistentLevel.BP_Dialogue_NPC_C_UAID_98BB1E1C3828AAF301_1454459689
