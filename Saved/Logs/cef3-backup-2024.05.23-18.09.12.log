@@ -1,0 +1,10 @@
+[0523/195105.892:ERROR:os_crypt_win.cc(93)] Failed to decrypt: 该项不适于在指定状态下使用。 (0x8009000B)
+[0523/195106.678:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[0523/195106.680:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0523/195106.817:WARNING:storage_block-inl.h(146)] Failed data load.
+[0523/195106.817:WARNING:storage_block-inl.h(146)] Failed data load.
+[0523/195106.817:WARNING:storage_block-inl.h(146)] Failed data load.
+[0523/195106.818:WARNING:storage_block-inl.h(146)] Failed data load.
+[0523/195106.818:ERROR:entry_impl.cc(998)] Failed to save user data
+[0523/195106.818:ERROR:entry_impl.cc(998)] Failed to save user data
+[0523/195306.235:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

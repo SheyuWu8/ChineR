@@ -1,2 +1,3 @@
-2024/05/23-17:14:03.679 4390 Creating DB D:/WUUUUUUUUU/ChineR/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/05/23-17:14:03.729 4390 Reusing MANIFEST D:/WUUUUUUUUU/ChineR/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/05/23-22:05:55.349 33d0 Reusing MANIFEST E:/ChineR/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/05/23-22:05:55.360 33d0 Recovering log #3
+2024/05/23-22:05:55.361 33d0 Reusing old log E:/ChineR/Saved/webcache_4430\Local Storage\leveldb/000003.log 
